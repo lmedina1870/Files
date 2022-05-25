@@ -1,0 +1,386 @@
+﻿alpha2;shortname
+AM;Armenia
+AN;Netherlands Antilles
+BT;Bhutan
+ER;Eritrea
+ES;Spain
+ET;Ethiopia
+FI;Finland
+FJ;Fiji
+FK;Falkland Islands
+FM;Micronesia
+FO;Faroe Islands
+QE;Europe
+FR;France
+GA;Gabon
+GB;United Kingdom
+GD;Grenada
+GE;Georgia
+GH;Ghana
+GI;Gibraltar
+GL;Greenland
+GM;Gambia
+GN;Guinea
+GQ;Equatorial Guinea
+GR;Greece
+GT;Guatemala
+GU;Guam
+GW;Guinea-Bissau
+GY;Guyana
+HK;Hong Kong
+HN;Honduras
+HR;Croatia
+HT;Haiti
+HU;Hungary
+ID;Indonesia
+IE;Ireland
+IL;Israel
+IM;Isle of Man
+IN;India
+IQ;Iraq
+IR;Iran
+IS;Iceland
+IT;Italy
+JM;Jamaica
+JO;Jordan
+JP;Japan
+KE;Kenya
+KG;Kyrgyzstan
+KH;Cambodia
+KI;Kiribati
+KM;Comoros
+KN;Saint Kitts and Nevis
+KP;North Korea
+KR;Korea
+KS;Kosovo
+KW;Kuwait
+KY;Cayman Islands
+KZ;Kazakhstan
+LA;Lao PDR
+LB;Lebanon
+LC;Saint Lucia
+LI;Liechtenstein
+LK;Sri Lanka
+LR;Liberia
+LS;Lesotho
+LT;Lithuania
+LU;Luxembourg
+LV;Latvia
+LY;Libya
+MA;Morocco
+MC;Monaco
+MD;Moldova
+ME;Montenegro
+MG;Madagascar
+MH;Marshall Islands
+MK;North Macedonia
+ML;Mali
+MM;Myanmar
+MN;Mongolia
+MO;Macao
+MP;Northern Mariana Islands
+MR;Mauritania
+MS;Montserrat
+MT;Malta
+MV;Maldives
+MW;Malawi
+MX;Mexico
+MY;Malaysia
+MZ;Mozambique
+NA;Namibia
+NC;New Caledonia
+NE;Niger
+NG;Nigeria
+NI;Nicaragua
+NL;Netherlands
+NO;Norway
+NP;Nepal
+NR;Nauru
+NU;Niue
+NZ;New Zealand
+OA;Other Russia & Central Asia
+OA-MER;Other Russia & Central Asia (at market exchange rate)
+OB;Other East Asia
+OB-MER;Other East Asia (at market exchange rate)
+OC;Other Western Europe
+OC-MER;Other Western Europe (at market exchange rate)
+OD;Other Latin America
+OD-MER;Other Latin America (at market exchange rate)
+OE;Other MENA
+OE-MER;Other MENA (at market exchange rate)
+OH;Other North America & Oceania
+OH-MER;Other North America & Oceania (at market exchange rate)
+OI;Other South & South-East Asia
+OI-MER;Other South & South-East Asia (at market exchange rate)
+OJ;Other Sub-Saharan Africa
+OJ-MER;Other Sub-Saharan Africa (at market exchange rate)
+OM;Oman
+PA;Panama
+PE;Peru
+PF;French Polynesia
+PG;Papua New Guinea
+PH;Philippines
+PK;Pakistan
+PL;Poland
+PM;Saint Pierre and Miquelon
+PR;Puerto Rico
+PS;Palestine
+PT;Portugal
+PW;Palau
+PY;Paraguay
+QA;Qatar
+QB;Africa
+QB-MER;Africa (at market exchange rate)
+QC;Americas
+QC-MER;Americas (at market exchange rate)
+QD;Asia
+QD-MER;Asia (at market exchange rate)
+QE-MER;Europe (at market exchange rate)
+QF;Oceania
+QF-MER;Oceania (at market exchange rate)
+QG;Australia and New Zealand
+QG-MER;Australia and New Zealand (at market exchange rate)
+QH;Caribbean
+QH-MER;Caribbean (at market exchange rate)
+QI;Central America
+QI-MER;Central America (at market exchange rate)
+QJ;Central Asia
+QJ-MER;Central Asia (at market exchange rate)
+QK;East Africa
+QK-MER;East Africa (at market exchange rate)
+QL;East Asia
+QL-MER;East Asia (at market exchange rate)
+QM;Eastern Europe
+QM-MER;Eastern Europe (at market exchange rate)
+QN;Middle Africa
+QN-MER;Middle Africa (at market exchange rate)
+QO;North Africa
+QO-MER;North Africa (at market exchange rate)
+QP;North America
+QP-MER;North America (at market exchange rate)
+QQ;Oceania (excl. Australia and New Zealand)
+QQ-MER;Oceania (excl. Australia and New Zealand) (at market exchange rate)
+QR;South America
+QR-MER;South America (at market exchange rate)
+QS;South-East Asia
+QS-MER;South-East Asia (at market exchange rate)
+QT;South Africa
+QT-MER;South Africa (at market exchange rate)
+QU;South Asia
+QU-MER;South Asia (at market exchange rate)
+QV;West Africa
+XC;Former Czechoslovakia
+XE;Former Ethiopia
+QV-MER;West Africa (at market exchange rate)
+QW-MER;West Asia (at market exchange rate)
+QX;Western Europe
+QX-MER;Western Europe (at market exchange rate)
+XK;Kosovo
+QY;European Union
+QY-MER;European Union (at market exchange rate)
+AE;United Arab Emirates
+AF;Afghanistan
+AG;Antigua and Barbuda
+AI;Anguilla
+AL;Albania
+CI;Cote d'Ivoire
+RO;Romania
+RS;Serbia
+RU;Russian Federation
+RW;Rwanda
+SA;Saudi Arabia
+SB;Solomon Islands
+SC;Seychelles
+SD;Sudan
+SE;Sweden
+SG;Singapore
+SH;Saint Helena
+SI;Slovenia
+SK;Slovakia
+SL;Sierra Leone
+SM;San Marino
+SN;Senegal
+SO;Somalia
+SR;Suriname
+SS;South Sudan
+ST;Sao Tome and Principe
+SU;USSR
+SV;El Salvador
+SX;Sint Maarten (Dutch part)
+SY;Syrian Arab Republic
+SZ;Swaziland
+TC;Turks and Caicos Islands
+TD;Chad
+TG;Togo
+TH;Thailand
+TJ;Tajikistan
+TK;Tokelau
+TL;Timor-Leste
+TM;Turkmenistan
+TN;Tunisia
+TO;Tonga
+TR;Turkey
+TT;Trinidad and Tobago
+TV;Tuvalu
+TW;Taiwan
+TZ;Tanzania
+UA;Ukraine
+UG;Uganda
+US;USA
+US-AK;Alaska
+US-AL;Alabama
+AD;Andorra
+US-AR;Arkansas
+US-AZ;Arizona
+US-CA;California
+US-CO;Colorado
+US-CT;Connecticut
+CK;Cook Islands
+US-DC;District of Columbia
+US-FL;Florida
+US-GA;Georgia
+US-HI;Hawaii
+US-IA;Iowa
+US-ID;Idaho
+US-IL;Illinois
+US-IN;Indiana
+US-KS;Kansas
+US-KY;Kentucky
+US-LA;Louisiana
+US-MA;Massachusetts
+US-MD;Maryland
+US-ME;Maine
+US-MI;Michigan
+US-MN;Minnesota
+US-MO;Missouri
+US-MS;Mississippi
+US-MT;Montana
+US-NC;North Carolina
+US-ND;North Dakota
+US-NE;Nebraska
+US-NH;New Hampshire
+US-NJ;New Jersey
+US-NM;New Mexico
+US-NV;Nevada
+US-NY;New York
+US-OH;Ohio
+US-OK;Oklahoma
+US-OR;Oregon
+US-PA;Pennsylvania
+US-RI;Rhode Island
+US-SC;South Carolina
+US-SD;South Dakota
+US-TN;Tennessee
+US-TX;Texas
+US-UT;Utah
+US-VA;Virginia
+US-VT;Vermont
+US-WA;Washington
+US-WI;Wisconsin
+US-WV;West Virginia
+US-WY;Wyoming
+UY;Uruguay
+XI;Channel Islands
+AO;Angola
+AR;Argentina
+AS;American Samoa
+AT;Austria
+AU;Australia
+AW;Aruba
+AZ;Azerbaijan
+XQ;
+XQ-MER;
+BA;Bosnia and Herzegovina
+BB;Barbados
+BD;Bangladesh
+BE;Belgium
+BF;Burkina Faso
+BG;Bulgaria
+BH;Bahrain
+BI;Burundi
+BJ;Benin
+BM;Bermuda
+BN;Brunei Darussalam
+BO;Bolivia
+BR;Brazil
+BS;Bahamas
+CL;Chile
+CM;Cameroon
+CN;China
+CN-RU;Rural China
+CN-UR;Urban China
+CO;Colombia
+DE-BD;Baden
+Al;
+Cl ;
+SW;
+BY;Belarus
+CR;Costa Rica
+CS;Czechoslovakia
+CU;Cuba
+CV;Cabo Verde
+CW;Curacao
+CY;Cyprus
+CZ;Czech Republic
+DD;German Democratic Republic
+DE;Germany
+DE-BY;Bavaria
+DE-HB;Bremen
+DE-HE;Hesse
+DE-HH;Hamburg
+DE-PR;Prussia
+DE-SN;Saxony
+DE-WU;Wurttemberg
+DJ;Djibouti
+DK;Denmark
+DM;Dominica
+DO;Dominican Republic
+DZ;Algeria
+EC;Ecuador
+EE;Estonia
+EG;Egypt
+EH;Western Sahara
+MU;Mauritius
+US-DE;Delaware
+UZ;Uzbekistan
+VA;Holy See
+VC;Saint Vincent and the Grenadines
+VE;Venezuela
+VG;Virgin Islands, British
+VI;Virgin Islands, US
+VN;Viet Nam
+VU;Vanuatu
+WF;Wallis and Futuna
+WO;World
+WO-MER;World (at market exchange rate)
+WS;Samoa
+XA;Asia (excl. Middle East)
+XA-MER;Asia (excl. Middle East) (at market exchange rate)
+XB;North America & Oceania
+XB-MER;North America & Oceania (at market exchange rate)
+XF;Sub-Saharan Africa
+XF-MER;Sub-Saharan Africa (at market exchange rate)
+XS-MER;South & South-East Asia (at market exchange rate)
+YE;Yemen
+YU;Yugoslavia
+ZA;South Africa
+ZM;Zambia
+ZW;Zimbabwe
+ZZ;Zanzibar
+BW;Botswana
+BZ;Belize
+CA;Canada
+CD;DR Congo
+CF;Central African Republic
+CG;Congo
+CH;Switzerland
+QW;West Asia
+XL;Latin America
+XL-MER;Latin America (at market exchange rate)
+XM;Middle East
+XM-MER;Middle East (at market exchange rate)
+XN;MENA
+XN-MER;MENA (at market exchange rate)
+XR;Russia & Central Asia
+XR-MER;Russia & Central Asia (at market exchange rate)
+XS;South & South-East Asia
